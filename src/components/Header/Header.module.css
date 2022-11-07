@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header {
+  color: #fc1503;
+  font-size: 2rem;
+}
+
+.search {
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  background-color: #efefef;
+}
+
+.searchContainer {
+  background: #efefef;
+  display: flex;
+  align-items: center;
+  height: 2rem;
+  padding: 0.3rem 1rem;
+  border-radius: 1rem;
+}
